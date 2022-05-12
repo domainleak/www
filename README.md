@@ -1,2 +1,6 @@
-# www
-www.domainleak.com
+# www.domainleak.com
+
+
++ blog
++ podcast
++ newsletter
