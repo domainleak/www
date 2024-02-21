@@ -4,7 +4,7 @@
 ![domainleak](https://github.com/domainleak/www/assets/5669657/7d4765fd-5cc5-4bc8-a0fa-d5779f23e3d7)
 
 
-+ [prezentacja](http://prezentacja.domainleak.com)
++ [globalny rynek domen](http://market.domainleak.com)
 + blog
 + podcast
 + newsletter
