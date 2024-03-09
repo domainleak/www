@@ -4,11 +4,7 @@
 # [domainLeak - internet domains for sale](http://www.domainleak.com)
 
 ## Current Auctions from 1$
-
-+ [legacycode.info](https://www.sav.com/auctions/details/5896301/legacycode.info)
-+ [contextool.com](https://www.sav.com/auctions/details/5896302/contextool.com)
-+ [pro2050.com](https://www.sav.com/auctions/details/5896303/pro2050.com)
-+ [p2040.com](https://www.sav.com/auctions/details/5896304/p2040.com)
+...
 
 ## another domains cheap domains 200-600USD:
 
